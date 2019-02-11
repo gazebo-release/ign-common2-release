@@ -1,3 +1,9 @@
+ignition-common2 (2.0.0-1~stretch) stretch; urgency=medium
+
+  * ignition-common2 2.0.0-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Mon, 11 Feb 2019 09:35:38 -0800
+
 ignition-common2 (2.0.0~pre1-1~stretch) stretch; urgency=medium
 
   * ignition-common2 2.0.0~pre1-1 release
